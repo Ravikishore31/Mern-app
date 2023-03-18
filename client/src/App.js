@@ -12,6 +12,7 @@ function App() {
           <Route path="/home" element={<HomePage />} />
           <Route path="/profile/:userId" element={<ProfilePage />} />
           <p> Hi I am ravi Kishore</p>
+          <h1>Hello Niharika</h1>
         </Routes>
       </BrowserRouter>
     </div>
